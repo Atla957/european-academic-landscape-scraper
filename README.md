@@ -48,10 +48,11 @@ The primary objective is to evaluate institutional growth, geographical density,
 ---
 
 ##  Repository Structure
-├── europe_scraper.py                  # Full Python extraction and cleaning script
-├── all_europe_academic_landscape.csv  # Cleaned output dataset (400+ records)
-├── stacked_histogram_europe.png       # Generated visualization output
-└── README.md                          # Project documentation
+
+├── europe_scraper.py                    # Full Python extraction and cleaning script
+├── all_europe_academic_landscape.csv    # Cleaned output dataset (400+ records)
+├── stacked_histogram_europe.png         # Generated visualization output
+└── README.md                            # Project documentation
 
 
 ---
